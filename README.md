@@ -1,5 +1,5 @@
 # WG-Zimmer_Statistik
-Mittlere Kosten und Größen von WG-Zimmer in großen Deutschen Städten (von wg-gesucht.de).
+Mittlere Kosten (warm) und Größen von WG-Zimmer in großen Deutschen Städten (von wg-gesucht.de).
 
 Tabelle ist sortierbar und per Knopfdruck erweiterbar. Daten müssen einzeln abgefragt werden, da es ein rate limiting gibt.
 
