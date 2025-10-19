@@ -1,5 +1,6 @@
 # WG-Zimmer_Statistik
-Mittlere Kosten (warm) und Größen von WG-Zimmer in großen Deutschen Städten (von wg-gesucht.de).
+Mittlere Kosten (warm) und Größen von WG-Zimmer in großen Deutschen Städten (von wg-gesucht.de).<br>
+Filter: 2er-4er WGs, 100-1000 €, unbefristet
 
 Tabelle ist sortierbar und per Knopfdruck erweiterbar. Daten müssen einzeln abgefragt werden, da es ein rate limiting gibt.
 
