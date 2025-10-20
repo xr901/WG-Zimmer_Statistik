@@ -2,7 +2,7 @@
 Mittlere Kosten (warm) und Größen von WG-Zimmer in großen Deutschen Städten (von wg-gesucht.de).<br>
 Filter: 2er-4er WGs, 100-1000 €, unbefristet
 
-Tabelle ist sortierbar und per Knopfdruck erweiterbar. Daten müssen einzeln abgefragt werden, da es ein rate limiting gibt.
+Tabelle ist sortierbar (danke an [Stuart Langridge](http://www.kryogenix.org/code/browser/sorttable/)) und per Knopfdruck erweiterbar. Daten müssen einzeln abgefragt werden, da es ein rate limiting gibt.
 
 ![Screenshot](screen.png)
 
